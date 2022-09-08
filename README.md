@@ -1,1 +1,2 @@
-# CENTOS79_PYTHON39
+# Centos7.9에 Python3.9&Package 설치하기
+
