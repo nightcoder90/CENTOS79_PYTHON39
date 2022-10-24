@@ -1,0 +1,9 @@
+# python cache
+__pycache__
+
+torch-1.12.1-cp39-cp39-manylinux1_x86_64.whl
+tensorflow-2.10.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+mkl-2022.1.0-py2.py3-none-manylinux1_x86_64.whl
+PySide2-5.15.2.1-5.15.2-cp35.cp36.cp37.cp38.cp39.cp310-abi3-manylinux1_x86_64.whl
+opencv_python-4.6.0.66-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+ray-2.0.1-cp39-cp39-manylinux2014_x86_64.whl

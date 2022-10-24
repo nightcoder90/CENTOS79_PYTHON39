@@ -10,6 +10,7 @@ Manually 다운로드 필요
 - PySide2-5.15.2.1-5.15.2-cp35.cp36.cp37.cp38.cp39.cp310-abi3-manylinux1_x86_64.whl
 - tensorflow-2.10.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 - torch-1.12.1-cp39-cp39-manylinux1_x86_64.whl
+- ray-2.0.1-cp39-cp39-manylinux2014_x86_64.whl
 
 ## Install Packages
 `pip install --no-index -f ./PKGS/ -r requirements.txt`

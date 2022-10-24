@@ -1,7 +1,7 @@
 click
 filelock
 future
-gym
+#gym
 h5py
 HeapDict
 html5lib
@@ -49,3 +49,7 @@ xlwt
 pyinstaller
 cx_Freeze
 PySide2
+# Added 2022-10-25
+jupyterlab
+ray[tune,rllib]
+gym[atari,accept-rom-license]==0.21.0
