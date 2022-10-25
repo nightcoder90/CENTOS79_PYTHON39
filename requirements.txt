@@ -52,4 +52,10 @@ PySide2
 # Added 2022-10-25
 jupyterlab
 ray[tune,rllib]
-gym[atari,accept-rom-license]==0.21.0
+gym[atari]==0.21.0
+# Added 2022-10-26
+pymysql
+pymoo
+gpyopt
+paryopt
+pyopt
